@@ -1,0 +1,21 @@
+{
+  "name": "axis",
+  "version": "0.0.1",
+  "author": "vanetix <matmcfarland@gmail.com>",
+  "description": "Client-server style volatile messaging",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vanetix/axis.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "mocha": ">=1.9.0"
+  }
+}
